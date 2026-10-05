@@ -20,6 +20,9 @@ Below, are some example heatmaps that were generated using this respository.
 <p align="center">
   <img src="./Examples/B3_bases_empty_R.png" width="45%">
   <img src="./Examples/B3_runner_first_L.png" width="45%">
+</p>
+
+<p align="center">
   <img src="./Examples/B3_runner_second_R.png" width="45%">
   <img src="./Examples/B3_runners_first_second_L.png" width="45%">
 </p>
